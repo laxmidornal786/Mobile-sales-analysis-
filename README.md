@@ -3,14 +3,17 @@ This project presents a fully interactive and insightful Mobile Sales Dashboard 
 1.Overview
 This project focuses on analyzing sales data to identify key trends, patterns, and insights that can help businesses improve decision-making. The analysis includes revenue tracking, top-performing products, customer behavior, and sales forecasting.
 
-2.Objectives
+2.Dashboard Description:
+The dashboard provides a visual analysis of mobile sales data, displaying key metrics such as total sales, total quantity, transactions, and average price. It includes interactive charts and graphs like sales by city, monthly trends, customer ratings, and payment methods, helping users quickly understand sales performance and make data-driven decisions.
+
+3.Objectives
 - Clean and preprocess raw sales data.
 - Perform Exploratory Data Analysis (EDA).
 - Visualize key sales metrics and trends.
 - Identify top-selling products, regions, and customer segments.
 - Provide actionable insights for business growth.
 
-3.Dataset
+4.Dataset
 - Source: (e.g., Kaggle / Company’s internal dataset)
 - Format: CSV/Excel
 - Columns:
@@ -23,13 +26,13 @@ This project focuses on analyzing sales data to identify key trends, patterns, a
 - Order Date
 - Region
 - Customer ID
-4.Tools & Technologies
+5.Tools & Technologies
 - PowerBI
 - DAX formulas
 - Excel
 - Sql
 
-5.Key Features
+6.Key Features
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Interactive Visualizations
@@ -37,7 +40,7 @@ This project focuses on analyzing sales data to identify key trends, patterns, a
 - Top Products & Customers Analysis
 - Forecasting future sales (optional, using ML models)
 
-6.Sample Visualizations
+7.Sample Visualizations
 - Monthly sales trend 
 - Category-wise sales distribution 
 - Top 10 best-selling products 
